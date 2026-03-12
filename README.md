@@ -1,23 +1,22 @@
 <h1 align="center">Hi 👋, I'm Kushal Sheth</h1>
-<h3 align="center">AI Developer | LangGraph Agent Builder | Backend Engineer</h3>
+<!-- <h3 align="center">AI Developer | LangGraph Agent Builder | Backend Engineer</h3> -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer;LangGraph+Engineer;Automation+Builder;Python+Backend+Developer&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer;LangGraph+Engineer;AI+Agent+Builder;Automation+Developer;Python+Backend+Engineer&center=true&width=550&height=45">
 </p>
 
 ---
+
+
+<!-- 
 
 # 🤖 AI Developer
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212744275-3e9e0c30-2c67-4e39-bc8a-d3bbd4d87d02.gif" width="700">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=AI%20Developer&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+</p> -->
 
----
-
-# 🌐 Connect With Me
-
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/kushal-sheth-b47053267/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
@@ -39,42 +38,94 @@
 
 ---
 
-# ⚙️ Tech Stack
+# 🧠 AI / ML Stack
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,django,postgres,docker,git,github,html,css,javascript,nodejs,react,tailwind,threejs,mongodb" />
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://cdn.simpleicons.org/langchain" width="48"/>
+<img src="https://cdn.simpleicons.org/huggingface" width="48"/>
+<img src="https://cdn.simpleicons.org/opencv" width="48"/>
+
+<img src="https://img.shields.io/badge/LangGraph-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Groq-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MediaPipe-orange?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 🧠 AI / ML Technologies
+# ⚙️ Backend Development
 
-LangChain • LangGraph • Groq • HuggingFace
-ChromaDB • FAISS • OpenCV • MediaPipe
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,nodejs,django,fastapi,flask,docker,postgres,mongodb"/>
+
+<img src="https://cdn.simpleicons.org/supabase" width="48"/>
+
+</p>
 
 ---
 
-# 🛠 Tools & Infrastructure
+# 🎨 Frontend Development
 
-FastAPI • Flask • Supabase • Airtable • n8n • ngrok
-Railway • Render • Vercel • SQL • Apache Airflow
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,javascript,html,css,tailwind,threejs"/>
+
+</p>
+
+---
+
+# ☁️ DevOps & Infrastructure
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker"/>
+
+<img src="https://cdn.simpleicons.org/apacheairflow" width="48"/>
+<img src="https://cdn.simpleicons.org/vercel" width="48"/>
+<img src="https://cdn.simpleicons.org/railway" width="48"/>
+<img src="https://cdn.simpleicons.org/render" width="48"/>
+
+</p>
+
+---
+
+# 🤖 Automation Tools
+
+<p align="center">
+
+<img src="https://cdn.simpleicons.org/n8n" width="48"/>
+<img src="https://cdn.simpleicons.org/airtable" width="48"/>
+<img src="https://cdn.simpleicons.org/ngrok" width="48"/>
+
+</p>
 
 ---
 
 # 🏆 GitHub Achievements
-
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Kushalsheth7&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
+ <a href="https://github.com/ryo-ma/github-profile-trophy">
+   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Kushalsheth7&column=8&theme=onedark&no-frame=true&no-bg=true"/>
+ </a>
+ </p>
+
+
+
+
 
 ---
 
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Kushalsheth7/Kushalsheth7/output/github-contribution-grid-snake.svg">
+
+<img src="https://raw.githubusercontent.com/Kushalsheth7/Kushalsheth7/output/github-contribution-grid-snake.svg"/>
+
 </p>
 
 ---
