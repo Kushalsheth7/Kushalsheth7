@@ -113,7 +113,7 @@
 </p>
 
 ---
-## 🐍 My free time 
+## ♟ In My Free Time
 
 <!-- <a href="https://www.chess.com/member/kushal0704">
   <img src="https://chesscom-vercel-jujudel.vercel.app/chess-last-games/?username=kushal0704" align="center">
@@ -129,7 +129,4 @@
 <!-- <img src="https://raw.githubusercontent.com/Kushalsheth7/Kushalsheth7/output/github-contribution-grid-snake.svg"/>
 
 </p> --> 
-
 ---
-
-⭐️ From [Kushal Sheth](https://github.com/Kushalsheth7)
