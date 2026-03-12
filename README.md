@@ -20,7 +20,7 @@
 
 <p align="left">
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social"/>
+<img src="https://img.shields.io/github/followers/Kushalsheth7?label=Follow&style=social"/>
 </a>
 </p>
 
@@ -60,7 +60,7 @@ LangChain • LangGraph • HuggingFace • FAISS • ChromaDB • Groq
 
 # 🔥 GitHub Streak
 
-<p align="center">
+<!-- <p align="center">
 
 <img src="https://streak-stats.demolab.com/?user=Kushalsheth7&theme=tokyonight"/>
 
@@ -76,7 +76,7 @@ LangChain • LangGraph • HuggingFace • FAISS • ChromaDB • Groq
 
 </p>
 
----
+--- -->
 
 
 
