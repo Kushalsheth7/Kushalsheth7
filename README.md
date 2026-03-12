@@ -37,7 +37,7 @@
 🤖 I spend most of my time experimenting with AI agents and figuring out how machines can handle boring work for us.  
 🧩 I enjoy breaking down messy real-world problems and rebuilding them into clean automated systems.  
 🚀 Currently exploring multi-agent architectures and the chaos that comes with building smart systems.  
-✨ I don't always test my code, but when I do, I do it in production.
+✨ I don't always test my code, but when I do, I do it in production.<br>
 🎯 Long-term goal: build tools that people actually use, not just cool demos.
 
 ---
