@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋 I'm Kushal Sheth
 
-<!--
-**Kushalsheth7/Kushalsheth7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI & Backend Developer  
+💡 I build AI agents, automation systems, and intelligent tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🔭 Currently building **AI Automation Systems**
+- 🤖 Working with **LangChain & LangGraph**
+- 🧠 Interested in **AI Agents, RAG, and Automation**
+- 🌱 Learning **advanced AI system architecture**
+
+---
+
+## ⚙️ Tech Stack
+
+### Languages
+Python • Java • JavaScript • SQL
+
+### Backend
+FastAPI • Flask • Django • NodeJS
+
+### AI / ML
+LangChain • LangGraph • HuggingFace • Groq
+
+### Databases
+PostgreSQL • MongoDB • Supabase • ChromaDB • FAISS
+
+### DevOps / Tools
+Docker • Git • ngrok • n8n
+
+### Computer Vision
+OpenCV • MediaPipe
+
+### Frontend
+React • Tailwind • ThreeJS
+
+### Deployment
+Vercel • Render • Railway
