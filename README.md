@@ -1,41 +1,88 @@
-# Hi 👋 I'm Kushal Sheth
+<h1 align="center">Hi 👋, I'm Kushal Sheth</h1>
+<h3 align="center">AI Developer | LangGraph Agent Builder | Backend Engineer</h3>
 
-🚀 AI & Backend Developer  
-💡 I build AI agents, automation systems, and intelligent tools.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer;LangGraph+Engineer;Automation+Builder;Python+Backend+Developer&center=true&width=500&height=45">
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- 🔭 Currently building **AI Automation Systems**
-- 🤖 Working with **LangChain & LangGraph**
+- 🔭 Currently building **AI Business Automation Systems**
+- 🤖 Working with **LangChain & LangGraph Agents**
 - 🧠 Interested in **AI Agents, RAG, and Automation**
-- 🌱 Learning **advanced AI system architecture**
+- ⚡ Love building **real-world AI tools**
 
 ---
 
-## ⚙️ Tech Stack
+## 🌐 Connect With Me
 
-### Languages
-Python • Java • JavaScript • SQL
+<p align="left">
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social"/>
+</a>
+</p>
 
-### Backend
-FastAPI • Flask • Django • NodeJS
+---
 
-### AI / ML
-LangChain • LangGraph • HuggingFace • Groq
+# ⚙️ Tech Stack
 
-### Databases
-PostgreSQL • MongoDB • Supabase • ChromaDB • FAISS
+<p align="left">
 
-### DevOps / Tools
-Docker • Git • ngrok • n8n
+<img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,docker,postgres,mongodb,git,html,css,tailwind" />
 
-### Computer Vision
-OpenCV • MediaPipe
+</p>
 
-### Frontend
-React • Tailwind • ThreeJS
+---
 
-### Deployment
-Vercel • Render • Railway
+# 🤖 AI / ML Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django" />
+
+</p>
+
+LangChain • LangGraph • HuggingFace • FAISS • ChromaDB • Groq
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Kushalsheth7&show_icons=true&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Kushalsheth7&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kushalsheth7&theme=tokyo-night"/>
+
+</p>
+
+---
+
+
+
+### 🧠 Multi-Agent AI System
+Planning and execution agents working together.
+
+---
+
+⭐ From [Kushal Sheth](https://github.com/Kushalsheth7)
