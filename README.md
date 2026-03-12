@@ -94,9 +94,9 @@
 <img src="https://skillicons.dev/icons?i=git,github,docker" height="45"/>
 
 <img src="https://cdn.simpleicons.org/apacheairflow" height="45"/>
-<img src="https://cdn.simpleicons.org/vercel" height="45"/>
+<!-- <img src="https://cdn.simpleicons.org/vercel" height="45"/>
 <img src="https://cdn.simpleicons.org/railway" height="45"/>
-<img src="https://cdn.simpleicons.org/render" height="45"/>
+<img src="https://cdn.simpleicons.org/render" height="45"/> -->
 
 </p>
 
